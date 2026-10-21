@@ -1,5 +1,9 @@
 ---
-title: "Kalamaku4u.github.io"
+title: "kalamaku4u.github.io"
+image: media/beach.jpeg
+toc: false
+about:
+  template: broadside
 ---
 
 This is a Quarto website.
