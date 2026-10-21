@@ -3,7 +3,18 @@ title: "kalamaku4u.github.io"
 image: media/beach.jpeg
 toc: false
 about:
-  template: broadside
+  template: trestles
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Kalamaku4u
+      target: blank
+---
+
+:::{#hero-heading}
+
+HELLO! 
 ---
 
 This is a Quarto website.
