@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-About this site
+Hi! My name is Caide Filipo and I am an upcoming data scientist.
 
 ```{r}
 1 + 1

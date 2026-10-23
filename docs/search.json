@@ -4,20 +4,34 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! My name is Caide Filipo and I am an upcoming data scientist.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "About this site\nDownload PDF file."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "kalamaku4u.github.io",
+    "title": "Caide Filipo",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nwomp\nwomp\n\n\ntimes 2\n3"
   },
   {
     "objectID": "index.html#hello",
     "href": "index.html#hello",
-    "title": "kalamaku4u.github.io",
+    "title": "Caide Filipo",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#heading-2",
+    "href": "index.html#heading-2",
+    "title": "Caide Filipo",
+    "section": "",
+    "text": "womp\nwomp\n\n\ntimes 2\n3"
   }
 ]

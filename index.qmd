@@ -1,5 +1,5 @@
 ---
-title: "kalamaku4u.github.io"
+title: "Caide Filipo"
 image: media/beach.jpeg
 toc: false
 about:
@@ -24,3 +24,22 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
+
+- womp
+
+- womp
+
+1.  times 2
+2.  3

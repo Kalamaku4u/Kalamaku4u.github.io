@@ -1,1 +1,23 @@
 /* css styles */
+h1, p {
+  color:#00AAFF;
+}
+h2 {
+  color:#88CC00;
+}
+h3 {
+  color:#FFFFFF;
+  font-style: italic;
+}
+body {
+  background-color:#E6F3FF;
+}
+
+ol, ul {
+  color: brown;
+  font-style: italic;
+}
+
+a {
+  color: purple;
+}
