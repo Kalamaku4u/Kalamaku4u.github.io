@@ -1,9 +1,32 @@
 ---
-title: "About"
+ title: "About"
+ image: media/resume_port2.jpeg
+ toc: false
+ about:
+  template: trestles
+  image-shape: round
 ---
 
-Hi! My name is Caide Filipo and I am an upcoming data scientist.
+### INFO:
 
-```{r}
-1 + 1
-```
+- 18 yrs old
+
+- Hawaii-born & raised
+
+- CUH '30
+
+### Education:
+
+- Dual degree in Computer Science and Data Science Analytics & Visualization (DSAV)
+
+- Certificate in Cybersecurity and Geospatial Analysis
+
+### Unknowns:
+
+- #1 fan of California Pizza Kitchen (C.P.K)
+
+- Artistically challenged
+
+- Godzilla is my jam, if you want to learn more visit [here](godzilla.qmd)
+
+- Amateur shotput and discus thrower

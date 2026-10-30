@@ -12,34 +12,4 @@ about:
       target: blank
 ---
 
-:::{#hero-heading}
-
-HELLO! 
----
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-- womp
-
-- womp
-
-1.  times 2
-2.  3
+Hi, I'm Caide. Studying Computer Science and Data Science at Chaminade University, interested in geographic analysis and environmental impact data. If I am not in class, you can find me in campus ministry, working out at the gym, or body boarding at the beach.

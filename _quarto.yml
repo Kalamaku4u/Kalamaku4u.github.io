@@ -5,17 +5,14 @@ project:
 website:
   title: "The Website"
   navbar:
-    background: "#00AAFF"
-    foreground: "#E6F3FF"
+
     search: true
     right:
       - href: index.qmd
         text: Home
       - about.qmd
       - resume.qmd
-      - href: media/ResumePublic2.pdf
-        text: CV
-        target: _blank
+      - godzilla.qmd
       - icon: github
         href: https://github.com/kalamaku4u
         target: _blank
@@ -23,9 +20,9 @@ website:
 format:
   html:
     theme:
-      light: zephyr
-      #dark: solar
+      light: solar
     css: styles.css
+    mainfont: Istok Web
     toc: true
     page-layout: full
 

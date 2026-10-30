@@ -4,6 +4,4 @@ resources:
   - media/ResumePublic2.pdf
 ---
 
-About this site
-
 {{< pdf media/ResumePublic2.pdf width=100% height=800 >}}

@@ -1,0 +1,32 @@
+---
+title: "Godzilla"
+image: media/godzilla.jpeg
+format: html
+toc: false
+about:
+  template: broadside
+---
+
+### Origin
+
+Godzilla debuted in Ishirō Honda’s landmark 1954 film *Godzilla*. Awakened and mutated by atomic bomb testing in the Pacific, the creature was an explicit metaphor for the destruction of Hiroshima and Nagasaki, as well as recent fallout incidents like the *Lucky Dragon No. 5*. Over time, while Godzilla's roles shifted, ranging from a villain and anti-hero to a quirky protector of Earth, the core theme has remained consistent: **Godzilla represents nature's retribution against human arrogance and unchecked technological development**.
+
+### The Eras of Godzilla
+
+- **Shōwa Era (1954–1975):** Begins as dark, atmospheric horror and evolves into campy, kid-friendly heroic action. Godzilla fights classic foes like King Ghidorah and Rodan, pioneering the *tokusatsu* (practical special effects using suits and miniature sets) technique.
+
+- **Heisei Era (1984–1995):** A direct reboot ignoring the campier sequels. Returns Godzilla to a destructive, bio-hazard force of nature. Features continuous serialization, biological themes (e.g., genetic splicing), and a darker tone.
+
+- **Millennium Era (1999–2004):** Functions largely as an anthology series where nearly every film rebooted the continuity from the 1954 original, experimenting with different tones and design styles.
+
+- **Reiwa Era (Toho / Japan; 2016–Present):** Focuses on modern reinventions. Highlights include *Shin Godzilla* (2016), a satirical satire on government bureaucracy, and *Godzilla Minus One* (2023), a critically acclaimed post-WWII period piece that won the franchise its first Academy Award.
+
+- **American Adaptations:**
+
+  - **TriStar (1998):** Roland Emmerich’s Hollywood take, which transformed Godzilla into a fast, iguana-like creature (later rebranded by Toho as "Zilla").
+
+  - **Legendary’s MonsterVerse (2014–Present):** A high-budget shared cinematic universe portraying Godzilla as an ancient apex alpha predator balancing Earth's ecosystems alongside King Kong and other "Titans".
+
+### Cultural Impact
+
+Godzilla pioneered the *daikaiju eiga* (giant monster movie) subgenre and fundamentally shaped Japanese special-effects cinema. Beyond movies, the creature has spawned animated series, video games, comics, and global merchandising, becoming an officially recognized cultural ambassador and citizen of Tokyo.

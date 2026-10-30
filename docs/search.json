@@ -4,21 +4,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hi! My name is Caide Filipo and I am an upcoming data scientist.\n\n1 + 1\n\n[1] 2"
+    "text": "INFO:\n\n18 yrs old\nHawaii-born & raised\nCUH ’30\n\n\n\nEducation:\n\nDual degree in Computer Science and Data Science Analytics & Visualization (DSAV)\nCertificate in Cybersecurity and Geospatial Analysis\n\n\n\nUnknowns:\n\n#1 fan of California Pizza Kitchen (C.P.K)\nArtistically challenged\nGodzilla is my jam, if you want to learn more visit here\nAmateur shotput and discus thrower"
   },
   {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "About this site\nDownload PDF file."
+    "text": "Download PDF file."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Caide Filipo",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nwomp\nwomp\n\n\ntimes 2\n3"
+    "text": "Hi, I’m Caide. Studying Computer Science and Data Science at Chaminade University, interested in geographic analysis and environmental impact data. If I am not in class, you can find me in campus ministry, working out at the gym, or body boarding at the beach."
   },
   {
     "objectID": "index.html#hello",
@@ -33,5 +33,19 @@
     "title": "Caide Filipo",
     "section": "",
     "text": "womp\nwomp\n\n\ntimes 2\n3"
+  },
+  {
+    "objectID": "about.html#a-little-about-me",
+    "href": "about.html#a-little-about-me",
+    "title": "The Website",
+    "section": "A little About Me:",
+    "text": "A little About Me:"
+  },
+  {
+    "objectID": "godzilla.html",
+    "href": "godzilla.html",
+    "title": "Godzilla",
+    "section": "",
+    "text": "Origin\nGodzilla debuted in Ishirō Honda’s landmark 1954 film Godzilla. Awakened and mutated by atomic bomb testing in the Pacific, the creature was an explicit metaphor for the destruction of Hiroshima and Nagasaki, as well as recent fallout incidents like the Lucky Dragon No. 5. Over time, while Godzilla’s roles shifted, ranging from a villain and anti-hero to a quirky protector of Earth, the core theme has remained consistent: Godzilla represents nature’s retribution against human arrogance and unchecked technological development.\n\n\nThe Eras of Godzilla\n\nShōwa Era (1954–1975): Begins as dark, atmospheric horror and evolves into campy, kid-friendly heroic action. Godzilla fights classic foes like King Ghidorah and Rodan, pioneering the tokusatsu (practical special effects using suits and miniature sets) technique.\nHeisei Era (1984–1995): A direct reboot ignoring the campier sequels. Returns Godzilla to a destructive, bio-hazard force of nature. Features continuous serialization, biological themes (e.g., genetic splicing), and a darker tone.\nMillennium Era (1999–2004): Functions largely as an anthology series where nearly every film rebooted the continuity from the 1954 original, experimenting with different tones and design styles.\nReiwa Era (Toho / Japan; 2016–Present): Focuses on modern reinventions. Highlights include Shin Godzilla (2016), a satirical satire on government bureaucracy, and Godzilla Minus One (2023), a critically acclaimed post-WWII period piece that won the franchise its first Academy Award.\nAmerican Adaptations:\n\nTriStar (1998): Roland Emmerich’s Hollywood take, which transformed Godzilla into a fast, iguana-like creature (later rebranded by Toho as “Zilla”).\nLegendary’s MonsterVerse (2014–Present): A high-budget shared cinematic universe portraying Godzilla as an ancient apex alpha predator balancing Earth’s ecosystems alongside King Kong and other “Titans”.\n\n\n\n\nCultural Impact\nGodzilla pioneered the daikaiju eiga (giant monster movie) subgenre and fundamentally shaped Japanese special-effects cinema. Beyond movies, the creature has spawned animated series, video games, comics, and global merchandising, becoming an officially recognized cultural ambassador and citizen of Tokyo."
   }
 ]

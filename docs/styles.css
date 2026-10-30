@@ -1,23 +1,13 @@
-/* css styles */
-h1, p {
-  color:#00AAFF;
-}
-h2 {
-  color:#88CC00;
-}
-h3 {
-  color:#FFFFFF;
-  font-style: italic;
-}
-body {
-  background-color:#E6F3FF;
-}
+/* css styles
+h1, p {color:#675647;}
+h2 {color:#E3BD90;}
+h3 {color:#FFFFFF; font-style: italic;}
+body {background-color:#C0BDBC;}
+ol, ul {color: brown; font-style: italic;}
+a {color:#3B3B3B;}
+*/
 
-ol, ul {
-  color: brown;
-  font-style: italic;
-}
-
-a {
-  color: purple;
-}
+/* Font Import */
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">    
