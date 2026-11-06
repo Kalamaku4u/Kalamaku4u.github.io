@@ -9,7 +9,7 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: https://github.com/kalamaku4u/dashboards
+      - href: https://github.com/kalamaku4u/dashboards 
         text: Dashboard
       - about.qmd
       - resume.qmd
